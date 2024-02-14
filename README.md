@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/poonam-kewlani-lalwani-70514868/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Bridging Analytics and Social Media Insights
-- ✨ skills: Python, Microsoft PowerBI, SQL, Excel, Canva, Meta ads.  
+- ✨ Skills: Python, Microsoft PowerBI, SQL, Excel, Canva, Meta ads.  
 <!---
 PoonamKewlani/PoonamKewlani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
